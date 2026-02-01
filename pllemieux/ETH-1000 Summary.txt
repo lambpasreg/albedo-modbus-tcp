@@ -1,0 +1,1644 @@
+ETH-1000 Summary
+        Description: 
+        Database Endianness: Little Endian
+
+    RS-485 Summary
+    
+        BACnet MS/TP Server Summary
+                Baud Rate: 76800
+                Parity: No Parity (1 Stop Bit)
+                Max Master: 127
+        
+            Node Summary
+                    MAC Address: 99
+            
+                Device Object Summary
+                        Device Name: ICC_ETH_1000
+                        Instance Number: 210399
+                
+                Analog Value - Nom_Input_Freq Summary
+                        Object Name: Nom_Input_Freq
+                        Instance: 1
+                        Database Address: 0
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: hertz
+                        Relinquish Default: 0
+                
+                Analog Value - Nom_Output_Freq Summary
+                        Object Name: Nom_Output_Freq
+                        Instance: 2
+                        Database Address: 2
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: hertz
+                        Relinquish Default: 0
+                
+                Analog Value - Vab_Input Summary
+                        Object Name: Vab_Input
+                        Instance: 3
+                        Database Address: 4
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Vab_Output Summary
+                        Object Name: Vab_Output
+                        Instance: 4
+                        Database Address: 8
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Van_Input Summary
+                        Object Name: Van_Input
+                        Instance: 5
+                        Database Address: 12
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Vbn_Input Summary
+                        Object Name: Vbn_Input
+                        Instance: 6
+                        Database Address: 16
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Van_Output Summary
+                        Object Name: Van_Output
+                        Instance: 7
+                        Database Address: 20
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Vbn_Output Summary
+                        Object Name: Vbn_Output
+                        Instance: 8
+                        Database Address: 24
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Vab_Bypass Summary
+                        Object Name: Vab_Bypass
+                        Instance: 9
+                        Database Address: 28
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Van_Bypass Summary
+                        Object Name: Van_Bypass
+                        Instance: 10
+                        Database Address: 32
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Vbn_Bypass Summary
+                        Object Name: Vbn_Bypass
+                        Instance: 11
+                        Database Address: 36
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Vab_Inverter Summary
+                        Object Name: Vab_Inverter
+                        Instance: 12
+                        Database Address: 40
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - Battery_Voltage Summary
+                        Object Name: Battery_Voltage
+                        Instance: 13
+                        Database Address: 44
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volts
+                        Relinquish Default: 0
+                
+                Analog Value - IinA Summary
+                        Object Name: IinA
+                        Instance: 15
+                        Database Address: 48
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: amperes
+                        Relinquish Default: 0
+                
+                Analog Value - IinB Summary
+                        Object Name: IinB
+                        Instance: 16
+                        Database Address: 52
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: amperes
+                        Relinquish Default: 0
+                
+                Analog Value - IoutA Summary
+                        Object Name: IoutA
+                        Instance: 17
+                        Database Address: 56
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: amperes
+                        Relinquish Default: 0
+                
+                Analog Value - IoutB Summary
+                        Object Name: IoutB
+                        Instance: 18
+                        Database Address: 60
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: amperes
+                        Relinquish Default: 0
+                
+                Analog Value - DCIbatt Summary
+                        Object Name: DCIbatt
+                        Instance: 19
+                        Database Address: 64
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: amperes
+                        Relinquish Default: 0
+                
+                Analog Value - Watts_Out_PhA Summary
+                        Object Name: Watts_Out_PhA
+                        Instance: 20
+                        Database Address: 68
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: watts
+                        Relinquish Default: 0
+                
+                Analog Value - Watts_Out_PhB Summary
+                        Object Name: Watts_Out_PhB
+                        Instance: 21
+                        Database Address: 72
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: watts
+                        Relinquish Default: 0
+                
+                Analog Value - Watts_Out Summary
+                        Object Name: Watts_Out
+                        Instance: 22
+                        Database Address: 76
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: watts
+                        Relinquish Default: 0
+                
+                Analog Value - VA_Out Summary
+                        Object Name: VA_Out
+                        Instance: 23
+                        Database Address: 80
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: volt-amperes
+                        Relinquish Default: 0
+                
+                Analog Value - %_Full_Load Summary
+                        Object Name: %_Full_Load
+                        Instance: 24
+                        Database Address: 84
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: percent
+                        Relinquish Default: 0
+                
+                Analog Value - PF_Disp_Out Summary
+                        Object Name: PF_Disp_Out
+                        Instance: 25
+                        Database Address: 88
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: power-factor
+                        Relinquish Default: 0
+                
+                Analog Value - Battery_Cap Summary
+                        Object Name: Battery_Cap
+                        Instance: 26
+                        Database Address: 92
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: percent
+                        Relinquish Default: 0
+                
+                Analog Value - Output_KW_Hours Summary
+                        Object Name: Output_KW_Hours
+                        Instance: 27
+                        Database Address: 96
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: kilowatt-hours
+                        Relinquish Default: 0
+                
+                Analog Value - Output_Demand_KW Summary
+                        Object Name: Output_Demand_KW
+                        Instance: 28
+                        Database Address: 100
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: kilowatts
+                        Relinquish Default: 0
+                
+                Analog Value - Output_Frequency Summary
+                        Object Name: Output_Frequency
+                        Instance: 29
+                        Database Address: 104
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: hertz
+                        Relinquish Default: 0
+                
+                Analog Value - Input_Frequency Summary
+                        Object Name: Input_Frequency
+                        Instance: 30
+                        Database Address: 108
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: hertz
+                        Relinquish Default: 0
+                
+                Analog Value - Inverter_Freq Summary
+                        Object Name: Inverter_Freq
+                        Instance: 31
+                        Database Address: 112
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: hertz
+                        Relinquish Default: 0
+                
+                Analog Value - Bypass_Frequency Summary
+                        Object Name: Bypass_Frequency
+                        Instance: 32
+                        Database Address: 116
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: hertz
+                        Relinquish Default: 0
+                
+                Analog Value - Amb_Temperature Summary
+                        Object Name: Amb_Temperature
+                        Instance: 33
+                        Database Address: 120
+                        Data Type: 32-Bit Floating Point
+                        Multiplier: 1
+                        Units: degrees-Celsius
+                        Relinquish Default: 0
+                
+                Analog Value - Batt_Time_Remain Summary
+                        Object Name: Batt_Time_Remain
+                        Instance: 34
+                        Database Address: 124
+                        Data Type: 32-Bit Unsigned
+                        Multiplier: 1
+                        Units: seconds
+                        Relinquish Default: 0
+                
+                Binary Value - InvACOverVolt Summary
+                        Object Name: InvACOverVolt
+                        Instance: 100
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x01
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvACUnderVolt Summary
+                        Object Name: InvACUnderVolt
+                        Instance: 101
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvUnderOverFreq Summary
+                        Object Name: InvUnderOverFreq
+                        Instance: 102
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x04
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BpACOverVolt Summary
+                        Object Name: BpACOverVolt
+                        Instance: 103
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BpACUnderVolt Summary
+                        Object Name: BpACUnderVolt
+                        Instance: 104
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BpUnderOverFreq Summary
+                        Object Name: BpUnderOverFreq
+                        Instance: 105
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InACOverVolt Summary
+                        Object Name: InACOverVolt
+                        Instance: 106
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x40
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InACUnderVolt Summary
+                        Object Name: InACUnderVolt
+                        Instance: 107
+                        Database Address: 100
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x80
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InUnderOverFreq Summary
+                        Object Name: InUnderOverFreq
+                        Instance: 108
+                        Database Address: 101
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x01
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - OutACOverVolt Summary
+                        Object Name: OutACOverVolt
+                        Instance: 109
+                        Database Address: 101
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - OutACUnderVolt Summary
+                        Object Name: OutACUnderVolt
+                        Instance: 110
+                        Database Address: 101
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x04
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - OutUnderOverFreq Summary
+                        Object Name: OutUnderOverFreq
+                        Instance: 111
+                        Database Address: 101
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - RemEmerPowerOff Summary
+                        Object Name: RemEmerPowerOff
+                        Instance: 112
+                        Database Address: 101
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - ChargerOverTemp Summary
+                        Object Name: ChargerOverTemp
+                        Instance: 113
+                        Database Address: 102
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvOverTemp Summary
+                        Object Name: InvOverTemp
+                        Instance: 114
+                        Database Address: 103
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x01
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - OutputOverload Summary
+                        Object Name: OutputOverload
+                        Instance: 115
+                        Database Address: 103
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - RectifierOverCur Summary
+                        Object Name: RectifierOverCur
+                        Instance: 116
+                        Database Address: 103
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x04
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvOutOverCur Summary
+                        Object Name: InvOutOverCur
+                        Instance: 117
+                        Database Address: 103
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - DCLinkOverVolt Summary
+                        Object Name: DCLinkOverVolt
+                        Instance: 118
+                        Database Address: 103
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - DCLinkUnderVolt Summary
+                        Object Name: DCLinkUnderVolt
+                        Instance: 119
+                        Database Address: 103
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BattCurrentLimit Summary
+                        Object Name: BattCurrentLimit
+                        Instance: 127
+                        Database Address: 105
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x80
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvStartupFail Summary
+                        Object Name: InvStartupFail
+                        Instance: 128
+                        Database Address: 106
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x01
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - ShutdownImminent Summary
+                        Object Name: ShutdownImminent
+                        Instance: 130
+                        Database Address: 106
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x80
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BatteryVoltLow Summary
+                        Object Name: BatteryVoltLow
+                        Instance: 131
+                        Database Address: 107
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x01
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - UtilityOutLimits Summary
+                        Object Name: UtilityOutLimits
+                        Instance: 132
+                        Database Address: 107
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - OutShortCircuit Summary
+                        Object Name: OutShortCircuit
+                        Instance: 133
+                        Database Address: 107
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x04
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - UtilityNoPresent Summary
+                        Object Name: UtilityNoPresent
+                        Instance: 134
+                        Database Address: 107
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BatteryVoltHigh Summary
+                        Object Name: BatteryVoltHigh
+                        Instance: 135
+                        Database Address: 108
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - ToBypassCommand Summary
+                        Object Name: ToBypassCommand
+                        Instance: 140
+                        Database Address: 111
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BpOutTolerance Summary
+                        Object Name: BpOutTolerance
+                        Instance: 141
+                        Database Address: 112
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BattSwCB2Open Summary
+                        Object Name: BattSwCB2Open
+                        Instance: 142
+                        Database Address: 112
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x80
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BypassSwCB4Open Summary
+                        Object Name: BypassSwCB4Open
+                        Instance: 143
+                        Database Address: 113
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvOverTempTrip Summary
+                        Object Name: InvOverTempTrip
+                        Instance: 144
+                        Database Address: 113
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BpPhaseRotation Summary
+                        Object Name: BpPhaseRotation
+                        Instance: 145
+                        Database Address: 114
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - PhaseAOverload Summary
+                        Object Name: PhaseAOverload
+                        Instance: 151
+                        Database Address: 117
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x08
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - PhaseBOverload Summary
+                        Object Name: PhaseBOverload
+                        Instance: 152
+                        Database Address: 117
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - PhaseAOverloadHL Summary
+                        Object Name: PhaseAOverloadHL
+                        Instance: 153
+                        Database Address: 117
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x40
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - PhaseBOverloadHL Summary
+                        Object Name: PhaseBOverloadHL
+                        Instance: 154
+                        Database Address: 117
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x80
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - PhaseAOverloadEL Summary
+                        Object Name: PhaseAOverloadEL
+                        Instance: 155
+                        Database Address: 118
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - PhaseBOverloadEL Summary
+                        Object Name: PhaseBOverloadEL
+                        Instance: 156
+                        Database Address: 118
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x04
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - UPSOnBattery Summary
+                        Object Name: UPSOnBattery
+                        Instance: 157
+                        Database Address: 118
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - UPSOnBypass Summary
+                        Object Name: UPSOnBypass
+                        Instance: 158
+                        Database Address: 118
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - LowBattShutdown Summary
+                        Object Name: LowBattShutdown
+                        Instance: 159
+                        Database Address: 118
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x80
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BatteryTestFail Summary
+                        Object Name: BatteryTestFail
+                        Instance: 162
+                        Database Address: 119
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - SiteWiringFault Summary
+                        Object Name: SiteWiringFault
+                        Instance: 165
+                        Database Address: 120
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x01
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - BattDisconnected Summary
+                        Object Name: BattDisconnected
+                        Instance: 166
+                        Database Address: 120
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x04
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - TransfoOverTemp Summary
+                        Object Name: TransfoOverTemp
+                        Instance: 167
+                        Database Address: 120
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x10
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - AmbUnderTemp Summary
+                        Object Name: AmbUnderTemp
+                        Instance: 168
+                        Database Address: 120
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x20
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - AmbOverTemp Summary
+                        Object Name: AmbOverTemp
+                        Instance: 169
+                        Database Address: 120
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x40
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - AutoShutdown Summary
+                        Object Name: AutoShutdown
+                        Instance: 170
+                        Database Address: 121
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: Alarme
+                        Inactive Text: Normal
+                        Relinquish Default: Inactive
+                
+                Binary Value - InvOutFail Summary
+                        Object Name: InvOutFail
+                        Instance: 171
+                        Database Address: 122
+                        Data Type: 8-Bit Unsigned
+                        Bitmask: 0x02
+                        Active Text: 
+                        Inactive Text: 
+                        Relinquish Default: Inactive
+                
+                Analog Value - OnBypass Summary
+                        Object Name: OnBypass
+                        Instance: 201
+                        Database Address: 1000
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - OnMaintBypass Summary
+                        Object Name: OnMaintBypass
+                        Instance: 202
+                        Database Address: 1002
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - BattEnergized Summary
+                        Object Name: BattEnergized
+                        Instance: 203
+                        Database Address: 1004
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - UtilityPresent Summary
+                        Object Name: UtilityPresent
+                        Instance: 204
+                        Database Address: 1006
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - RectifierOutOn Summary
+                        Object Name: RectifierOutOn
+                        Instance: 205
+                        Database Address: 1008
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - InverterOutOn Summary
+                        Object Name: InverterOutOn
+                        Instance: 206
+                        Database Address: 1010
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - ChargerOn Summary
+                        Object Name: ChargerOn
+                        Instance: 207
+                        Database Address: 1012
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - BattDepleted Summary
+                        Object Name: BattDepleted
+                        Instance: 208
+                        Database Address: 1014
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - BpBreakerCont Summary
+                        Object Name: BpBreakerCont
+                        Instance: 209
+                        Database Address: 1016
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - StaticSwitch Summary
+                        Object Name: StaticSwitch
+                        Instance: 210
+                        Database Address: 1018
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - BattBreaker Summary
+                        Object Name: BattBreaker
+                        Instance: 211
+                        Database Address: 1020
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - BpPresent Summary
+                        Object Name: BpPresent
+                        Instance: 212
+                        Database Address: 1022
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+                Analog Value - SystemNormal Summary
+                        Object Name: SystemNormal
+                        Instance: 213
+                        Database Address: 1024
+                        Data Type: 16-Bit Unsigned
+                        Multiplier: 1
+                        Units: no-units
+                        Relinquish Default: 0
+                
+    Ethernet Summary
+            Authentication
+                User Name: root
+                Password: icc
+            Network Configuration
+                IP Settings: Static
+                IP Address: 192.168.1.102
+                Subnet Mask: 255.255.255.0
+                Default Gateway: 192.168.1.1
+    
+        Modbus/TCP Client Summary
+                Scan Rate (ms): 0
+        
+            Connection Object - PXGX_Eaton_9155 Summary
+                    Name: PXGX_Eaton_9155
+                    IP Address: 192.168.1.102
+            
+                Discrete Input Service Object - Eaton_9155_Alarmes Summary
+                        Description: Eaton_9155_Alarmes
+                        Unit ID: 0
+                        Start Input: 1001
+                        Number of Inputs: 202
+                        Database Address: 2000
+                        Read Function: 2 (Read Input Status)
+                        Data Type: 1 Bit
+                
+                Input Register Service Object - 1670 Summary
+                        Description: 1670
+                        Unit ID: 0
+                        Start Register: 1670
+                        Number of Registers: 1
+                        Database Address: 0
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 1671 Summary
+                        Description: 1671
+                        Unit ID: 0
+                        Start Register: 1671
+                        Number of Registers: 1
+                        Database Address: 2
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 4029 Summary
+                        Description: 4029
+                        Unit ID: 0
+                        Start Register: 4029
+                        Number of Registers: 1
+                        Database Address: 4
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4035 Summary
+                        Description: 4035
+                        Unit ID: 0
+                        Start Register: 4035
+                        Number of Registers: 1
+                        Database Address: 8
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4041 Summary
+                        Description: 4041
+                        Unit ID: 0
+                        Start Register: 4041
+                        Number of Registers: 1
+                        Database Address: 12
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4043 Summary
+                        Description: 4043
+                        Unit ID: 0
+                        Start Register: 4043
+                        Number of Registers: 1
+                        Database Address: 16
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4047 Summary
+                        Description: 4047
+                        Unit ID: 0
+                        Start Register: 4047
+                        Number of Registers: 1
+                        Database Address: 20
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4049 Summary
+                        Description: 4049
+                        Unit ID: 0
+                        Start Register: 4049
+                        Number of Registers: 1
+                        Database Address: 24
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4053 Summary
+                        Description: 4053
+                        Unit ID: 0
+                        Start Register: 4053
+                        Number of Registers: 1
+                        Database Address: 28
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4059 Summary
+                        Description: 4059
+                        Unit ID: 0
+                        Start Register: 4059
+                        Number of Registers: 1
+                        Database Address: 32
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4061 Summary
+                        Description: 4061
+                        Unit ID: 0
+                        Start Register: 4061
+                        Number of Registers: 1
+                        Database Address: 36
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4065 Summary
+                        Description: 4065
+                        Unit ID: 0
+                        Start Register: 4065
+                        Number of Registers: 1
+                        Database Address: 40
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 4378 Summary
+                        Description: 4378
+                        Unit ID: 0
+                        Start Register: 4378
+                        Number of Registers: 1
+                        Database Address: 44
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 5023 Summary
+                        Description: 5023
+                        Unit ID: 0
+                        Start Register: 5023
+                        Number of Registers: 1
+                        Database Address: 48
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 5025 Summary
+                        Description: 5025
+                        Unit ID: 0
+                        Start Register: 5025
+                        Number of Registers: 1
+                        Database Address: 52
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 5029 Summary
+                        Description: 5029
+                        Unit ID: 0
+                        Start Register: 5029
+                        Number of Registers: 1
+                        Database Address: 56
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 5031 Summary
+                        Description: 5031
+                        Unit ID: 0
+                        Start Register: 5031
+                        Number of Registers: 1
+                        Database Address: 60
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 5191 Summary
+                        Description: 5191
+                        Unit ID: 0
+                        Start Register: 5191
+                        Number of Registers: 1
+                        Database Address: 64
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 6017 Summary
+                        Description: 6017
+                        Unit ID: 0
+                        Start Register: 6017
+                        Number of Registers: 1
+                        Database Address: 68
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 6019 Summary
+                        Description: 6019
+                        Unit ID: 0
+                        Start Register: 6019
+                        Number of Registers: 1
+                        Database Address: 72
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 6025 Summary
+                        Description: 6025
+                        Unit ID: 0
+                        Start Register: 6025
+                        Number of Registers: 1
+                        Database Address: 76
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 6089 Summary
+                        Description: 6089
+                        Unit ID: 0
+                        Start Register: 6089
+                        Number of Registers: 1
+                        Database Address: 80
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 6185 Summary
+                        Description: 6185
+                        Unit ID: 0
+                        Start Register: 6185
+                        Number of Registers: 1
+                        Database Address: 84
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 6203 Summary
+                        Description: 6203
+                        Unit ID: 0
+                        Start Register: 6203
+                        Number of Registers: 1
+                        Database Address: 88
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 7001 Summary
+                        Description: 7001
+                        Unit ID: 0
+                        Start Register: 7001
+                        Number of Registers: 1
+                        Database Address: 92
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 7003 Summary
+                        Description: 7003
+                        Unit ID: 0
+                        Start Register: 7003
+                        Number of Registers: 1
+                        Database Address: 96
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 7874 Summary
+                        Description: 7874
+                        Unit ID: 0
+                        Start Register: 7874
+                        Number of Registers: 1
+                        Database Address: 100
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 11003 Summary
+                        Description: 11003
+                        Unit ID: 0
+                        Start Register: 11003
+                        Number of Registers: 1
+                        Database Address: 104
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 11005 Summary
+                        Description: 11005
+                        Unit ID: 0
+                        Start Register: 11005
+                        Number of Registers: 1
+                        Database Address: 108
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 11007 Summary
+                        Description: 11007
+                        Unit ID: 0
+                        Start Register: 11007
+                        Number of Registers: 1
+                        Database Address: 112
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 11009 Summary
+                        Description: 11009
+                        Unit ID: 0
+                        Start Register: 11009
+                        Number of Registers: 1
+                        Database Address: 116
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 12001 Summary
+                        Description: 12001
+                        Unit ID: 0
+                        Start Register: 12001
+                        Number of Registers: 1
+                        Database Address: 120
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Floating Point
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: Yes
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 12207 Summary
+                        Description: 12207
+                        Unit ID: 0
+                        Start Register: 12207
+                        Number of Registers: 1
+                        Database Address: 124
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 32-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: Yes
+                            Floating Point: No
+                            Big Endian: Yes
+                            Word-Size Register: Yes
+                            Word Count: Yes
+                
+                Input Register Service Object - 12664 Summary
+                        Description: 12664
+                        Unit ID: 0
+                        Start Register: 12664
+                        Number of Registers: 1
+                        Database Address: 1000
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12665 Summary
+                        Description: 12665
+                        Unit ID: 0
+                        Start Register: 12665
+                        Number of Registers: 1
+                        Database Address: 1002
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12667 Summary
+                        Description: 12667
+                        Unit ID: 0
+                        Start Register: 12667
+                        Number of Registers: 1
+                        Database Address: 1004
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12668 Summary
+                        Description: 12668
+                        Unit ID: 0
+                        Start Register: 12668
+                        Number of Registers: 1
+                        Database Address: 1006
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12669 Summary
+                        Description: 12669
+                        Unit ID: 0
+                        Start Register: 12669
+                        Number of Registers: 1
+                        Database Address: 1008
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12670 Summary
+                        Description: 12670
+                        Unit ID: 0
+                        Start Register: 12670
+                        Number of Registers: 1
+                        Database Address: 1010
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12671 Summary
+                        Description: 12671
+                        Unit ID: 0
+                        Start Register: 12671
+                        Number of Registers: 1
+                        Database Address: 1012
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12672 Summary
+                        Description: 12672
+                        Unit ID: 0
+                        Start Register: 12672
+                        Number of Registers: 1
+                        Database Address: 1014
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12674 Summary
+                        Description: 12674
+                        Unit ID: 0
+                        Start Register: 12674
+                        Number of Registers: 1
+                        Database Address: 1016
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12675 Summary
+                        Description: 12675
+                        Unit ID: 0
+                        Start Register: 12675
+                        Number of Registers: 1
+                        Database Address: 1018
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12676 Summary
+                        Description: 12676
+                        Unit ID: 0
+                        Start Register: 12676
+                        Number of Registers: 1
+                        Database Address: 1020
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 17011 Summary
+                        Description: 17011
+                        Unit ID: 0
+                        Start Register: 17011
+                        Number of Registers: 1
+                        Database Address: 1022
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                
+                Input Register Service Object - 12681 Summary
+                        Description: 12681
+                        Unit ID: 0
+                        Start Register: 12681
+                        Number of Registers: 1
+                        Database Address: 1024
+                        Multiplier: 1
+                        Read Function: 4 (Read Input Registers)
+                        Data Type: 16-Bit Unsigned
+                        32-Bit Options
+                            32-Bit Registers: No
+                

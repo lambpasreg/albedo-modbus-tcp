@@ -1,0 +1,145 @@
+Name,Port,Protocol,Database Start Address,Number of Objects,Data Type,Size per Object,Total Size (Bytes)
+Analog Value - Nom_Input_Freq,RS-485,BACnet MS/TP Server,0,1,16-Bit Unsigned,2,2
+Analog Value - Nom_Output_Freq,RS-485,BACnet MS/TP Server,2,1,16-Bit Unsigned,2,2
+Analog Value - Vab_Input,RS-485,BACnet MS/TP Server,4,1,32-Bit Floating Point,4,4
+Analog Value - Vab_Output,RS-485,BACnet MS/TP Server,8,1,32-Bit Floating Point,4,4
+Analog Value - Van_Input,RS-485,BACnet MS/TP Server,12,1,32-Bit Floating Point,4,4
+Analog Value - Vbn_Input,RS-485,BACnet MS/TP Server,16,1,32-Bit Floating Point,4,4
+Analog Value - Van_Output,RS-485,BACnet MS/TP Server,20,1,32-Bit Floating Point,4,4
+Analog Value - Vbn_Output,RS-485,BACnet MS/TP Server,24,1,32-Bit Floating Point,4,4
+Analog Value - Vab_Bypass,RS-485,BACnet MS/TP Server,28,1,32-Bit Floating Point,4,4
+Analog Value - Van_Bypass,RS-485,BACnet MS/TP Server,32,1,32-Bit Floating Point,4,4
+Analog Value - Vbn_Bypass,RS-485,BACnet MS/TP Server,36,1,32-Bit Floating Point,4,4
+Analog Value - Vab_Inverter,RS-485,BACnet MS/TP Server,40,1,32-Bit Floating Point,4,4
+Analog Value - Battery_Voltage,RS-485,BACnet MS/TP Server,44,1,32-Bit Floating Point,4,4
+Analog Value - IinA,RS-485,BACnet MS/TP Server,48,1,32-Bit Floating Point,4,4
+Analog Value - IinB,RS-485,BACnet MS/TP Server,52,1,32-Bit Floating Point,4,4
+Analog Value - IoutA,RS-485,BACnet MS/TP Server,56,1,32-Bit Floating Point,4,4
+Analog Value - IoutB,RS-485,BACnet MS/TP Server,60,1,32-Bit Floating Point,4,4
+Analog Value - DCIbatt,RS-485,BACnet MS/TP Server,64,1,32-Bit Floating Point,4,4
+Analog Value - Watts_Out_PhA,RS-485,BACnet MS/TP Server,68,1,32-Bit Floating Point,4,4
+Analog Value - Watts_Out_PhB,RS-485,BACnet MS/TP Server,72,1,32-Bit Floating Point,4,4
+Analog Value - Watts_Out,RS-485,BACnet MS/TP Server,76,1,32-Bit Floating Point,4,4
+Analog Value - VA_Out,RS-485,BACnet MS/TP Server,80,1,32-Bit Floating Point,4,4
+Analog Value - %_Full_Load,RS-485,BACnet MS/TP Server,84,1,32-Bit Floating Point,4,4
+Analog Value - PF_Disp_Out,RS-485,BACnet MS/TP Server,88,1,32-Bit Floating Point,4,4
+Analog Value - Battery_Cap,RS-485,BACnet MS/TP Server,92,1,32-Bit Floating Point,4,4
+Analog Value - Output_KW_Hours,RS-485,BACnet MS/TP Server,96,1,32-Bit Floating Point,4,4
+Analog Value - Output_Demand_KW,RS-485,BACnet MS/TP Server,100,1,32-Bit Floating Point,4,4
+Analog Value - Output_Frequency,RS-485,BACnet MS/TP Server,104,1,32-Bit Floating Point,4,4
+Analog Value - Input_Frequency,RS-485,BACnet MS/TP Server,108,1,32-Bit Floating Point,4,4
+Analog Value - Inverter_Freq,RS-485,BACnet MS/TP Server,112,1,32-Bit Floating Point,4,4
+Analog Value - Bypass_Frequency,RS-485,BACnet MS/TP Server,116,1,32-Bit Floating Point,4,4
+Analog Value - Amb_Temperature,RS-485,BACnet MS/TP Server,120,1,32-Bit Floating Point,4,4
+Analog Value - Batt_Time_Remain,RS-485,BACnet MS/TP Server,124,1,32-Bit Unsigned,4,4
+Binary Value - InvACOverVolt,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - InvACUnderVolt,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - InvUnderOverFreq,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - BpACOverVolt,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - BpACUnderVolt,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - BpUnderOverFreq,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - InACOverVolt,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - InACUnderVolt,RS-485,BACnet MS/TP Server,100,1,8-Bit Unsigned,1,1
+Binary Value - InUnderOverFreq,RS-485,BACnet MS/TP Server,101,1,8-Bit Unsigned,1,1
+Binary Value - OutACOverVolt,RS-485,BACnet MS/TP Server,101,1,8-Bit Unsigned,1,1
+Binary Value - OutACUnderVolt,RS-485,BACnet MS/TP Server,101,1,8-Bit Unsigned,1,1
+Binary Value - OutUnderOverFreq,RS-485,BACnet MS/TP Server,101,1,8-Bit Unsigned,1,1
+Binary Value - RemEmerPowerOff,RS-485,BACnet MS/TP Server,101,1,8-Bit Unsigned,1,1
+Binary Value - ChargerOverTemp,RS-485,BACnet MS/TP Server,102,1,8-Bit Unsigned,1,1
+Binary Value - InvOverTemp,RS-485,BACnet MS/TP Server,103,1,8-Bit Unsigned,1,1
+Binary Value - OutputOverload,RS-485,BACnet MS/TP Server,103,1,8-Bit Unsigned,1,1
+Binary Value - RectifierOverCur,RS-485,BACnet MS/TP Server,103,1,8-Bit Unsigned,1,1
+Binary Value - InvOutOverCur,RS-485,BACnet MS/TP Server,103,1,8-Bit Unsigned,1,1
+Binary Value - DCLinkOverVolt,RS-485,BACnet MS/TP Server,103,1,8-Bit Unsigned,1,1
+Binary Value - DCLinkUnderVolt,RS-485,BACnet MS/TP Server,103,1,8-Bit Unsigned,1,1
+Binary Value - BattCurrentLimit,RS-485,BACnet MS/TP Server,105,1,8-Bit Unsigned,1,1
+Binary Value - InvStartupFail,RS-485,BACnet MS/TP Server,106,1,8-Bit Unsigned,1,1
+Binary Value - ShutdownImminent,RS-485,BACnet MS/TP Server,106,1,8-Bit Unsigned,1,1
+Binary Value - BatteryVoltLow,RS-485,BACnet MS/TP Server,107,1,8-Bit Unsigned,1,1
+Binary Value - UtilityOutLimits,RS-485,BACnet MS/TP Server,107,1,8-Bit Unsigned,1,1
+Binary Value - OutShortCircuit,RS-485,BACnet MS/TP Server,107,1,8-Bit Unsigned,1,1
+Binary Value - UtilityNoPresent,RS-485,BACnet MS/TP Server,107,1,8-Bit Unsigned,1,1
+Binary Value - BatteryVoltHigh,RS-485,BACnet MS/TP Server,108,1,8-Bit Unsigned,1,1
+Binary Value - ToBypassCommand,RS-485,BACnet MS/TP Server,111,1,8-Bit Unsigned,1,1
+Binary Value - BpOutTolerance,RS-485,BACnet MS/TP Server,112,1,8-Bit Unsigned,1,1
+Binary Value - BattSwCB2Open,RS-485,BACnet MS/TP Server,112,1,8-Bit Unsigned,1,1
+Binary Value - BypassSwCB4Open,RS-485,BACnet MS/TP Server,113,1,8-Bit Unsigned,1,1
+Binary Value - InvOverTempTrip,RS-485,BACnet MS/TP Server,113,1,8-Bit Unsigned,1,1
+Binary Value - BpPhaseRotation,RS-485,BACnet MS/TP Server,114,1,8-Bit Unsigned,1,1
+Binary Value - PhaseAOverload,RS-485,BACnet MS/TP Server,117,1,8-Bit Unsigned,1,1
+Binary Value - PhaseBOverload,RS-485,BACnet MS/TP Server,117,1,8-Bit Unsigned,1,1
+Binary Value - PhaseAOverloadHL,RS-485,BACnet MS/TP Server,117,1,8-Bit Unsigned,1,1
+Binary Value - PhaseBOverloadHL,RS-485,BACnet MS/TP Server,117,1,8-Bit Unsigned,1,1
+Binary Value - PhaseAOverloadEL,RS-485,BACnet MS/TP Server,118,1,8-Bit Unsigned,1,1
+Binary Value - PhaseBOverloadEL,RS-485,BACnet MS/TP Server,118,1,8-Bit Unsigned,1,1
+Binary Value - UPSOnBattery,RS-485,BACnet MS/TP Server,118,1,8-Bit Unsigned,1,1
+Binary Value - UPSOnBypass,RS-485,BACnet MS/TP Server,118,1,8-Bit Unsigned,1,1
+Binary Value - LowBattShutdown,RS-485,BACnet MS/TP Server,118,1,8-Bit Unsigned,1,1
+Binary Value - BatteryTestFail,RS-485,BACnet MS/TP Server,119,1,8-Bit Unsigned,1,1
+Binary Value - SiteWiringFault,RS-485,BACnet MS/TP Server,120,1,8-Bit Unsigned,1,1
+Binary Value - BattDisconnected,RS-485,BACnet MS/TP Server,120,1,8-Bit Unsigned,1,1
+Binary Value - TransfoOverTemp,RS-485,BACnet MS/TP Server,120,1,8-Bit Unsigned,1,1
+Binary Value - AmbUnderTemp,RS-485,BACnet MS/TP Server,120,1,8-Bit Unsigned,1,1
+Binary Value - AmbOverTemp,RS-485,BACnet MS/TP Server,120,1,8-Bit Unsigned,1,1
+Binary Value - AutoShutdown,RS-485,BACnet MS/TP Server,121,1,8-Bit Unsigned,1,1
+Binary Value - InvOutFail,RS-485,BACnet MS/TP Server,122,1,8-Bit Unsigned,1,1
+Analog Value - OnBypass,RS-485,BACnet MS/TP Server,1000,1,16-Bit Unsigned,2,2
+Analog Value - OnMaintBypass,RS-485,BACnet MS/TP Server,1002,1,16-Bit Unsigned,2,2
+Analog Value - BattEnergized,RS-485,BACnet MS/TP Server,1004,1,16-Bit Unsigned,2,2
+Analog Value - UtilityPresent,RS-485,BACnet MS/TP Server,1006,1,16-Bit Unsigned,2,2
+Analog Value - RectifierOutOn,RS-485,BACnet MS/TP Server,1008,1,16-Bit Unsigned,2,2
+Analog Value - InverterOutOn,RS-485,BACnet MS/TP Server,1010,1,16-Bit Unsigned,2,2
+Analog Value - ChargerOn,RS-485,BACnet MS/TP Server,1012,1,16-Bit Unsigned,2,2
+Analog Value - BattDepleted,RS-485,BACnet MS/TP Server,1014,1,16-Bit Unsigned,2,2
+Analog Value - BpBreakerCont,RS-485,BACnet MS/TP Server,1016,1,16-Bit Unsigned,2,2
+Analog Value - StaticSwitch,RS-485,BACnet MS/TP Server,1018,1,16-Bit Unsigned,2,2
+Analog Value - BattBreaker,RS-485,BACnet MS/TP Server,1020,1,16-Bit Unsigned,2,2
+Analog Value - BpPresent,RS-485,BACnet MS/TP Server,1022,1,16-Bit Unsigned,2,2
+Analog Value - SystemNormal,RS-485,BACnet MS/TP Server,1024,1,16-Bit Unsigned,2,2
+Discrete Input Service Object - Eaton_9155_Alarmes,Ethernet,Modbus/TCP Client,2000,202,1 Bit,1,26
+Input Register Service Object - 1670,Ethernet,Modbus/TCP Client,0,1,16-Bit Unsigned,2,2
+Input Register Service Object - 1671,Ethernet,Modbus/TCP Client,2,1,16-Bit Unsigned,2,2
+Input Register Service Object - 4029,Ethernet,Modbus/TCP Client,4,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4035,Ethernet,Modbus/TCP Client,8,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4041,Ethernet,Modbus/TCP Client,12,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4043,Ethernet,Modbus/TCP Client,16,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4047,Ethernet,Modbus/TCP Client,20,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4049,Ethernet,Modbus/TCP Client,24,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4053,Ethernet,Modbus/TCP Client,28,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4059,Ethernet,Modbus/TCP Client,32,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4061,Ethernet,Modbus/TCP Client,36,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4065,Ethernet,Modbus/TCP Client,40,1,32-Bit Floating Point,4,4
+Input Register Service Object - 4378,Ethernet,Modbus/TCP Client,44,1,32-Bit Floating Point,4,4
+Input Register Service Object - 5023,Ethernet,Modbus/TCP Client,48,1,32-Bit Floating Point,4,4
+Input Register Service Object - 5025,Ethernet,Modbus/TCP Client,52,1,32-Bit Floating Point,4,4
+Input Register Service Object - 5029,Ethernet,Modbus/TCP Client,56,1,32-Bit Floating Point,4,4
+Input Register Service Object - 5031,Ethernet,Modbus/TCP Client,60,1,32-Bit Floating Point,4,4
+Input Register Service Object - 5191,Ethernet,Modbus/TCP Client,64,1,32-Bit Floating Point,4,4
+Input Register Service Object - 6017,Ethernet,Modbus/TCP Client,68,1,32-Bit Floating Point,4,4
+Input Register Service Object - 6019,Ethernet,Modbus/TCP Client,72,1,32-Bit Floating Point,4,4
+Input Register Service Object - 6025,Ethernet,Modbus/TCP Client,76,1,32-Bit Floating Point,4,4
+Input Register Service Object - 6089,Ethernet,Modbus/TCP Client,80,1,32-Bit Floating Point,4,4
+Input Register Service Object - 6185,Ethernet,Modbus/TCP Client,84,1,32-Bit Floating Point,4,4
+Input Register Service Object - 6203,Ethernet,Modbus/TCP Client,88,1,32-Bit Floating Point,4,4
+Input Register Service Object - 7001,Ethernet,Modbus/TCP Client,92,1,32-Bit Floating Point,4,4
+Input Register Service Object - 7003,Ethernet,Modbus/TCP Client,96,1,32-Bit Floating Point,4,4
+Input Register Service Object - 7874,Ethernet,Modbus/TCP Client,100,1,32-Bit Floating Point,4,4
+Input Register Service Object - 11003,Ethernet,Modbus/TCP Client,104,1,32-Bit Floating Point,4,4
+Input Register Service Object - 11005,Ethernet,Modbus/TCP Client,108,1,32-Bit Floating Point,4,4
+Input Register Service Object - 11007,Ethernet,Modbus/TCP Client,112,1,32-Bit Floating Point,4,4
+Input Register Service Object - 11009,Ethernet,Modbus/TCP Client,116,1,32-Bit Floating Point,4,4
+Input Register Service Object - 12001,Ethernet,Modbus/TCP Client,120,1,32-Bit Floating Point,4,4
+Input Register Service Object - 12207,Ethernet,Modbus/TCP Client,124,1,32-Bit Unsigned,4,4
+Input Register Service Object - 12664,Ethernet,Modbus/TCP Client,1000,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12665,Ethernet,Modbus/TCP Client,1002,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12667,Ethernet,Modbus/TCP Client,1004,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12668,Ethernet,Modbus/TCP Client,1006,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12669,Ethernet,Modbus/TCP Client,1008,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12670,Ethernet,Modbus/TCP Client,1010,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12671,Ethernet,Modbus/TCP Client,1012,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12672,Ethernet,Modbus/TCP Client,1014,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12674,Ethernet,Modbus/TCP Client,1016,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12675,Ethernet,Modbus/TCP Client,1018,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12676,Ethernet,Modbus/TCP Client,1020,1,16-Bit Unsigned,2,2
+Input Register Service Object - 17011,Ethernet,Modbus/TCP Client,1022,1,16-Bit Unsigned,2,2
+Input Register Service Object - 12681,Ethernet,Modbus/TCP Client,1024,1,16-Bit Unsigned,2,2
