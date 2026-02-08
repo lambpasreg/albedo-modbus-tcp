@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Proj>
+  <StudioVersion>3.2.3.1</StudioVersion>
+  <Dev>
+    <ID>0401</ID>
+    <Config>
+      <Desc>
+      </Desc>
+      <Endian>1</Endian>
+      <Port>
+        <Index>0</Index>
+        <Proto>3</Proto>
+        <Baud>76800</Baud>
+        <Par>0</Par>
+        <MaxMast>127</MaxMast>
+        <Node>
+          <Addr>99</Addr>
+          <DevName>ICC_ETH_1000</DevName>
+          <InstNum>210399</InstNum>
+          <BNObj>
+            <Name>CBMainStatus</Name>
+            <VAddr>8389609</VAddr>
+            <DBAddr>0</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>95</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainVoltV12</Name>
+            <VAddr>8389610</VAddr>
+            <DBAddr>2</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>5</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainVoltV23</Name>
+            <VAddr>8389611</VAddr>
+            <DBAddr>4</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>5</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainVoltV31</Name>
+            <VAddr>8389612</VAddr>
+            <DBAddr>6</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>5</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainActPower</Name>
+            <VAddr>8389613</VAddr>
+            <DBAddr>8</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainFreq</Name>
+            <VAddr>8389614</VAddr>
+            <DBAddr>10</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>27</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainEnergyIN</Name>
+            <VAddr>8389615</VAddr>
+            <DBAddr>12</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainCurrentI1</Name>
+            <VAddr>8389616</VAddr>
+            <DBAddr>14</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>3</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainCurrentI2</Name>
+            <VAddr>8389617</VAddr>
+            <DBAddr>16</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>3</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainCurrentI3</Name>
+            <VAddr>8389618</VAddr>
+            <DBAddr>18</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>3</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CBMainEnergyOUT</Name>
+            <VAddr>8389619</VAddr>
+            <DBAddr>20</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>BESS_ActPower</Name>
+            <VAddr>8389620</VAddr>
+            <DBAddr>22</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PP2_ActPower</Name>
+            <VAddr>8389621</VAddr>
+            <DBAddr>24</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PR1_ActPower</Name>
+            <VAddr>8389622</VAddr>
+            <DBAddr>26</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PSCC_ActPower</Name>
+            <VAddr>8389623</VAddr>
+            <DBAddr>28</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PE2_ActPower</Name>
+            <VAddr>8389624</VAddr>
+            <DBAddr>30</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PP3_ActPower</Name>
+            <VAddr>8389625</VAddr>
+            <DBAddr>32</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PP4_ActPower</Name>
+            <VAddr>8389626</VAddr>
+            <DBAddr>34</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PSCR_ActPower</Name>
+            <VAddr>8389627</VAddr>
+            <DBAddr>36</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PP1_ActPower</Name>
+            <VAddr>8389628</VAddr>
+            <DBAddr>38</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CDS4_ActPower</Name>
+            <VAddr>8389629</VAddr>
+            <DBAddr>40</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CDS7_ActPower</Name>
+            <VAddr>8389630</VAddr>
+            <DBAddr>42</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>CDS11_ActPower</Name>
+            <VAddr>8389631</VAddr>
+            <DBAddr>44</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>PPUS1_ActPower</Name>
+            <VAddr>8389632</VAddr>
+            <DBAddr>48</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+        </Node>
+      </Port>
+      <Port>
+        <Index>1</Index>
+        <Proto>9</Proto>
+      </Port>
+    </Config>
+    <config_10750a>
+      <unit version="1" />
+      <unit user="root" />
+      <unit password="icc" />
+      <unit ipen="1" ip="A325066" mask="FFFFFF00" gateway="A325001" />
+    </config_10750a>
+    <mbtcpc_10750a>
+      <mbtcpc version="4" />
+      <mbtcpc prot_en="1" />
+      <mbtcpc rate="0" />
+      <conobj>
+        <mbtcpc alias="PXGX_Eaton_9155" ip="A325065" />
+        <mbtcpc desc="Eaton_9155_Alarmes" unitid="0" vaddr="3E9" bits="CA" bytes="1A" saddr="7D0" rfc="2" dtype="21" />
+        <mbtcpc desc="1670" unitid="0" vaddr="686" saddr="0" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="1671" unitid="0" vaddr="687" saddr="2" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="4029" unitid="0" vaddr="FBD" saddr="4" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4035" unitid="0" vaddr="FC3" saddr="8" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4041" unitid="0" vaddr="FC9" saddr="C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4043" unitid="0" vaddr="FCB" saddr="10" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4047" unitid="0" vaddr="FCF" saddr="14" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4049" unitid="0" vaddr="FD1" saddr="18" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4053" unitid="0" vaddr="FD5" saddr="1C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4059" unitid="0" vaddr="FDB" saddr="20" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4061" unitid="0" vaddr="FDD" saddr="24" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4065" unitid="0" vaddr="FE1" saddr="28" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="4378" unitid="0" vaddr="111A" saddr="2C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="5023" unitid="0" vaddr="139F" saddr="30" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="5025" unitid="0" vaddr="13A1" saddr="34" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="5029" unitid="0" vaddr="13A5" saddr="38" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="5031" unitid="0" vaddr="13A7" saddr="3C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="5191" unitid="0" vaddr="1447" saddr="40" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="6017" unitid="0" vaddr="1781" saddr="44" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="6019" unitid="0" vaddr="1783" saddr="48" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="6025" unitid="0" vaddr="1789" saddr="4C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="6089" unitid="0" vaddr="17C9" saddr="50" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="6185" unitid="0" vaddr="1829" saddr="54" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="6203" unitid="0" vaddr="183B" saddr="58" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="7001" unitid="0" vaddr="1B59" saddr="5C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="7003" unitid="0" vaddr="1B5B" saddr="60" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="7874" unitid="0" vaddr="1EC2" saddr="64" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="11003" unitid="0" vaddr="2AFB" saddr="68" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="11005" unitid="0" vaddr="2AFD" saddr="6C" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="11007" unitid="0" vaddr="2AFF" saddr="70" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="11009" unitid="0" vaddr="2B01" saddr="74" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="12001" unitid="0" vaddr="2EE1" saddr="78" mult="1" rfc="4" dtype="C4" bytes="4" enron="1" fp="1" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="12207" unitid="0" vaddr="2FAF" saddr="7C" mult="1" rfc="4" dtype="4" bytes="4" enron="1" fp="0" endian="1" wreg="1" wcnt="1" />
+        <mbtcpc desc="12664" unitid="0" vaddr="3178" saddr="3E8" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12665" unitid="0" vaddr="3179" saddr="3EA" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12667" unitid="0" vaddr="317B" saddr="3EC" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12668" unitid="0" vaddr="317C" saddr="3EE" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12669" unitid="0" vaddr="317D" saddr="3F0" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12670" unitid="0" vaddr="317E" saddr="3F2" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12671" unitid="0" vaddr="317F" saddr="3F4" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12672" unitid="0" vaddr="3180" saddr="3F6" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12674" unitid="0" vaddr="3182" saddr="3F8" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12675" unitid="0" vaddr="3183" saddr="3FA" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12676" unitid="0" vaddr="3184" saddr="3FC" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="17011" unitid="0" vaddr="4273" saddr="3FE" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="12681" unitid="0" vaddr="3189" saddr="400" mult="1" rfc="4" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+      </conobj>
+    </mbtcpc_10750a>
+  </Dev>
+</Proj>

@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Proj>
+  <StudioVersion>3.8.3.0</StudioVersion>
+  <Dev>
+    <ID>0401</ID>
+    <Config>
+      <Desc>
+      </Desc>
+      <Endian>1</Endian>
+      <Port>
+        <Index>1</Index>
+        <Proto>9</Proto>
+      </Port>
+      <Port>
+        <Index>0</Index>
+        <Proto>3</Proto>
+        <Baud>76800</Baud>
+        <Par>0</Par>
+        <MaxMast>127</MaxMast>
+        <Node>
+          <Addr>1</Addr>
+          <DevName>ETH-1000-MOD</DevName>
+          <InstNum>300601</InstNum>
+          <BNObj>
+            <Name>PC_DELESTAGE</Name>
+            <VAddr>8389609</VAddr>
+            <DBAddr>0</DBAddr>
+            <Signed>1</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>DEM_DELEST_BAT</Name>
+            <VAddr>8389610</VAddr>
+            <DBAddr>2</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>98</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KW_INST</Name>
+            <VAddr>8389611</VAddr>
+            <DBAddr>4</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KW_MOY_15M</Name>
+            <VAddr>8389612</VAddr>
+            <DBAddr>6</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>48</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_JANV</Name>
+            <VAddr>8389613</VAddr>
+            <DBAddr>8</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_FEV</Name>
+            <VAddr>8389614</VAddr>
+            <DBAddr>10</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_MARS</Name>
+            <VAddr>8389615</VAddr>
+            <DBAddr>12</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_AVR</Name>
+            <VAddr>8389616</VAddr>
+            <DBAddr>14</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_MAI</Name>
+            <VAddr>8389617</VAddr>
+            <DBAddr>16</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_JUIN</Name>
+            <VAddr>8389618</VAddr>
+            <DBAddr>18</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_JUIL</Name>
+            <VAddr>8389619</VAddr>
+            <DBAddr>20</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_AOUT</Name>
+            <VAddr>8389620</VAddr>
+            <DBAddr>22</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_SEPT</Name>
+            <VAddr>8389621</VAddr>
+            <DBAddr>22</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_OCT</Name>
+            <VAddr>8389622</VAddr>
+            <DBAddr>26</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_NOV</Name>
+            <VAddr>8389623</VAddr>
+            <DBAddr>28</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>KWH_DEC</Name>
+            <VAddr>8389624</VAddr>
+            <DBAddr>30</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>19</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>DEM_GDP</Name>
+            <VAddr>8389625</VAddr>
+            <DBAddr>32</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>98</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+          <BNObj>
+            <Name>ETAT_GEN</Name>
+            <VAddr>8389626</VAddr>
+            <DBAddr>34</DBAddr>
+            <Signed>0</Signed>
+            <Float>0</Float>
+            <DSize>2</DSize>
+            <Mult>1</Mult>
+            <Units>98</Units>
+            <RDVal>0</RDVal>
+          </BNObj>
+        </Node>
+      </Port>
+    </Config>
+    <config_10750a>
+      <unit version="1" />
+      <unit user="root" />
+      <unit password="icc" />
+      <unit ipen="1" ip="C0A80166" mask="FFFFFF00" gateway="C0A80101" />
+    </config_10750a>
+    <mbtcpc_10750a>
+      <mbtcpc version="4" />
+      <mbtcpc prot_en="1" />
+      <mbtcpc rate="FA" />
+      <conobj>
+        <mbtcpc alias="SCHNEIDER-MOD" ip="C0A80164" />
+        <mbtcpc desc="PC-DELESTAGE" unitid="1" vaddr="1" saddr="0" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="DEM-DELEST-BAT" unitid="1" vaddr="2" saddr="2" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KW-INST" unitid="1" vaddr="3" saddr="4" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KW-MOY-15M" unitid="1" vaddr="4" saddr="6" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-JANV" unitid="1" vaddr="5" saddr="8" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-FEV" unitid="1" vaddr="6" saddr="A" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-MARS" unitid="1" vaddr="7" saddr="C" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-AVR" unitid="1" vaddr="8" saddr="E" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-MAI" unitid="1" vaddr="9" saddr="10" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-JUIN" unitid="1" vaddr="A" saddr="12" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-JUIL" unitid="1" vaddr="B" saddr="14" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-AOUT" unitid="1" vaddr="C" saddr="16" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-SEPT" unitid="1" vaddr="D" saddr="18" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-OCT" unitid="1" vaddr="E" saddr="1A" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-NOV" unitid="1" vaddr="F" saddr="1C" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="KWH-DEC" unitid="1" vaddr="10" saddr="1E" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="DEM-GDP" unitid="1" vaddr="11" saddr="20" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+        <mbtcpc desc="ETAT-GEN" unitid="1" vaddr="12" saddr="22" mult="1" rfc="3" wfc="10" dtype="2" bytes="2" enron="0" fp="0" endian="0" wreg="1" wcnt="1" />
+      </conobj>
+    </mbtcpc_10750a>
+  </Dev>
+</Proj>
